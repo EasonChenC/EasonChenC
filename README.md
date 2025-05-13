@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="mailto:curry13145@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Eason-Chen&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
