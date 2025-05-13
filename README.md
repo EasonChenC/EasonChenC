@@ -16,7 +16,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eason-Chen&layout=compact&theme=tokyonight&langs_count=8" alt="Eason-Chen's Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eason-Chen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Eason-Chen's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Eason-Chen&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Eason-Chen's GitHub Streak" />
 </div>
 
 <br>
